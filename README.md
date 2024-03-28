@@ -1,18 +1,17 @@
-## Getting Started
+# Desafio DIO Criando um Bando Digital com Java e Orientação a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Sobre o desafio
+Desafio consiste em criar um banco que ofereça aos seus clientes dois tipos de contas (Corrente e Poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+# Tecnologias utilizadas
+* Java 21.0.2
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Instruções
+Para iniciar o projeto é necessario:
+- Ter o Java 21.0.2 instalado na máquina
+- Clonar o repositório na máquina
+- Ter a extensão `Extension Pack for Java` instalado no VsCode
+- Abrir a pasta no VsCode e rodar o código
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
